@@ -1,6 +1,6 @@
 # Planner selection
 base_global_planner: "navfn/NavfnROS"
-base_local_planner: "base_local_planner/TrajectoryPlannerROS"
+base_local_planner: "graceful_controller/GracefulControllerROS"
 
 # Recovery behaviors are defined in robot folders
 
